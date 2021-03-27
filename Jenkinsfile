@@ -6,3 +6,4 @@ pipeline {
     git changelog: false, credentialsId: 'jagangithub', url: 'https://github.com/jagankrishnan05/nodejs-hello-world.git'
   }
 }
+}
